@@ -21,4 +21,9 @@ public class GitDemo
 	{
 		return r*r*Math.PI;
 	}
+	
+	public double volumeSquare(double s)
+	{
+		return s*s*s;
+	}
 }
