@@ -17,4 +17,8 @@ public class GitDemo
 		return .5*b*h;
 	}
 	
+	public double areaCircle(double r)
+	{
+		return r*r*Math.PI;
+	}
 }
