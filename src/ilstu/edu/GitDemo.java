@@ -26,4 +26,9 @@ public class GitDemo
 	{
 		return s*s*s;
 	}
+	
+	public double volumeRectangle(double l, double w, double h)
+	{
+		return l*w*h;
+	}
 }
