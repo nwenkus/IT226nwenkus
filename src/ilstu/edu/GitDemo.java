@@ -31,4 +31,9 @@ public class GitDemo
 	{
 		return l*w*h;
 	}
+	
+	public double volumeCircle(double r)
+	{
+		return (4/3)*r*r*r*Math.PI;
+	}
 }
