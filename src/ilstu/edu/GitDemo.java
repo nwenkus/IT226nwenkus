@@ -42,5 +42,8 @@ public class GitDemo
 		return p*q/2;
 	}
 	
-	
+	public double volumeCylinder(double r, double h)
+	{
+		return r*r*h*Math.PI;
+	}
 }
