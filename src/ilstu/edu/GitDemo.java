@@ -7,4 +7,8 @@ public class GitDemo
 		return s*s;
 	}
 	
+	public double areaRectange(double w, double h)
+	{
+		return w*h;
+	}
 }
