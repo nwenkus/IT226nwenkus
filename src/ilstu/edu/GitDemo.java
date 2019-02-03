@@ -11,4 +11,10 @@ public class GitDemo
 	{
 		return w*h;
 	}
+	
+	public double areaTriangle(double b, double h)
+	{
+		return .5*b*h;
+	}
+	
 }
