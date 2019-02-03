@@ -36,4 +36,11 @@ public class GitDemo
 	{
 		return (4/3)*r*r*r*Math.PI;
 	}
+	
+	public double areaRhombus(double p, double q)
+	{
+		return p*q/2;
+	}
+	
+	
 }
